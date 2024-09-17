@@ -1,7 +1,3 @@
-<div>
-  <img src="https://avatars.githubusercontent.com/u/181309796?s=200&v=4" alt="logo" width="100" style="vertical-align:middle;" /> 
-</div>
-
 ## 🚀 About Us
 Konfer bridges innovative companies with the next generation of tech talent. We organize high-impact events connecting businesses to ambitious students and young professionals.
 
