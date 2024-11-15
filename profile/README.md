@@ -7,7 +7,7 @@ Konfer bridges innovative companies with the next generation of tech talent. We 
 [HawkHacks](https://hawkhacks.ca/) ||
 [Laurier Computing Society](https://lauriercs.ca/)
 
-- **Events:** [Yacht After-Party @ Collision 2024](https://lu.ma/8iwq9lxb)
+- **Events:** [Yacht After-Party @ Collision 2024](https://lu.ma/8iwq9lxb) || [SPUR Community BBQ Festival - Presented by Konfer x SPUR Innovation Center](https://lu.ma/aouu9bsq)
 
 
 ## 🔗 Contact Us
