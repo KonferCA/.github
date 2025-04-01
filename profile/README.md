@@ -1,13 +1,24 @@
+<div align="center">
+  <img src="https://github.com/KonferCA/Konfer/blob/main/public/konfer_logo.svg" height="100" />
+
+  <hr />
+  
+  <p align="center"> 
+    <a href="https://konfer.ca"><strong>Learn More » </strong></a>
+  </p>
+</div>
+
 ## 🚀 About Us
-Konfer bridges innovative companies with the next generation of tech talent. We organize high-impact events connecting businesses to ambitious students and young professionals.
+Konfer is a full-scale product and software development powerhouse that also delivers strategic event solutions.
 
-<ins>We're still in the early stages of development.</ins> Take a look at some of our organizations and events we've ran below.
+Our in-house engineering team creates full-stack websites, web apps, and custom software solutions for clients needing technical expertise. We deliver end-to-end solutions using modern frameworks and best practices.
 
-- **Orgs:** 
-[HawkHacks](https://hawkhacks.ca/) ||
-[Laurier Computing Society](https://lauriercs.ca/)
+We also create engaging community experiences through yacht parties, case competitions, hackathons, and workshops. Our technical precision and creative strategy combine with expertise in event planning, partnerships, marketing, operations, and audience engagement to deliver impactful results.
 
-- **Events:** [Yacht After-Party @ Collision 2024](https://lu.ma/8iwq9lxb) || [SPUR Community BBQ Festival - Presented by Konfer x SPUR Innovation Center](https://lu.ma/aouu9bsq)
+> [!Note]
+> Our partnered student organizations
+> [HawkHacks](https://hawkhacks.ca/) &
+> [Laurier Computing Society](https://lauriercs.ca/)
 
 
 ## 🔗 Contact Us
